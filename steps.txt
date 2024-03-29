@@ -1,0 +1,5 @@
+npm init after making empty folder for package json
+start in json scripts so file can run with npm start
+npm i --global nodemon to install nodemon globally
+
+coderdost mern ecom completed till be 3
